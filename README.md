@@ -70,7 +70,7 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```
-git clone https://github.com/your-repo/skillswap.git
+git clone https://github.com/AnmolGithubx/StudySwap.git
 cd skillswap
 ```
 
