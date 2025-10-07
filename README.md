@@ -210,8 +210,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-- Email: your-email@example.com  
-- GitHub: your-github-profile
+- Email: a56231919@gmail.com  
 
 ---
 
@@ -222,4 +221,7 @@ Replace placeholders (`your_mongodb_connection_string`, `your_jwt_secret`, `your
 ---
 
 If you want, I can also improve it further with badges, table of contents, and visually separated sections to make it GitHub-ready and more professional.
+
+
+Made with ❤️ and lots of coffee.
 ```
