@@ -1,4 +1,3 @@
-```markdown
 # SkillSwap Platform
 
 **SkillSwap** is a peer-to-peer learning platform that allows users to create, join, and manage learning sessions. It includes gamification features like coins, leaderboards, and achievements to make learning engaging and rewarding.
